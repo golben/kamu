@@ -1,0 +1,4 @@
+- name: rdp-duty-machine-action
+  # You may pin to the exact commit or the version.
+  # uses: rdp-duty-machine/rdp-duty-machine-action@82922290cd00619afbf08d22d92651480ab39921
+  uses: rdp-duty-machine/rdp-duty-machine-action@v2
